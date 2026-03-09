@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackMenuDrivenProgram",
+            "request": "launch",
+            "mainClass": "StackMenuDrivenProgram",
+            "projectName": "new DSA with Java_29c4bed4"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "StackDemo",
+            "projectName": "new DSA with Java_29c4bed4"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "new DSA with Java_29c4bed4"
+        },
+        {
+            "type": "java",
             "name": "DoublyCircularLL",
             "request": "launch",
             "mainClass": "DoublyCircularLL",
