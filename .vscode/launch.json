@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinearQueue_Array",
+            "request": "launch",
+            "mainClass": "LinearQueue_Array",
+            "projectName": "new DSA with Java_29c4bed4"
+        },
+        {
+            "type": "java",
             "name": "StackMenuDrivenProgram",
             "request": "launch",
             "mainClass": "StackMenuDrivenProgram",
